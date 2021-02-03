@@ -18,3 +18,7 @@ def SequentialSearch(arr, item):
 
 
 SequentialSearch(x, 1)
+
+#The complexity of Linear Search Technique
+#Time Complexity: O(n)
+#Space Complexity: O(1)
