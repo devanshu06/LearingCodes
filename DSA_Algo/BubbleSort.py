@@ -14,4 +14,10 @@ def BubbleSort(data):
 db = [25,69,83,512,54,67,12,53]
 BubbleSort(db)
 
+#Worst and Average Case Time Complexity: O(n*n). Worst case occurs when array is reverse sorted.
 
+#Best Case Time Complexity: O(n). Best case occurs when array is already sorted.
+
+#Auxiliary Space: O(1)
+
+#Boundary Cases: Bubble sort takes minimum time (Order of n) when elements are already sorted.
